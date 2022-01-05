@@ -15,7 +15,7 @@ dependencies:
   geopoint: ^0.8.0
   latlong: ^0.6.1
   pedantic: ^1.9.2
-  rxdart: ^0.26.0 #--^0.25.0
+  rxdart: ^0.26.0 #--^0.25.0 changed for compatibility
 
 dev_dependencies:
   flutter_test:
