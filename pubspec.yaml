@@ -14,9 +14,7 @@ dependencies:
   geojson: ^1.0.0 #~ ^0.10.0
   geopoint: ^1.0.0 #~ ^0.8.0
 #~  latlong: ^0.6.1
-  latlong:
-    git:
-      url: https://github.com/summitcomputing/dart-latlong.git
+  latlong2: ^0.8.0
   pedantic: ^1.9.2
   rxdart: ^0.26.0 #--^0.25.0 changed for compatibility
 
